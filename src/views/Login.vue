@@ -3,7 +3,7 @@
 </script>
 
 <template>
-登陆页面
+登陆页面<el-button type="primary">Default</el-button>
 </template>
 
 <style scoped>
