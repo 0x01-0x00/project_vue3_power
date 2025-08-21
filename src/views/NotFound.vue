@@ -3,7 +3,7 @@
 </script>
 
 <template>
-Home
+404
 </template>
 
 <style scoped>
